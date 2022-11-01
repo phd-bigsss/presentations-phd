@@ -1,0 +1,97 @@
+---
+title: "Social Comparison, Subjective Social Status and Preferences for Redistribution"
+author:
+  - Julio César Iturra Sanhueza^[Centre for Social Conflict and Cohesion Studies (jciturra@uc.cl)]
+output:
+  pdf_document:
+    number_sections: true
+    toc: no
+bibliography: input/bib/proposal.bib
+csl: input/bib/apa7.csl
+header-includes:
+    - \usepackage{graphicx}
+    - \usepackage{float}
+    - \usepackage{times}           # Times New Roman
+    - \usepackage{caption}
+    - \usepackage{graphicx}
+    - \usepackage{float}
+    - \usepackage{booktabs}
+    - \usepackage{longtable}
+    - \usepackage{array}
+    - \usepackage{multirow}
+    - \usepackage{wrapfig}
+    - \usepackage{float}
+    - \usepackage{colortbl}
+    - \usepackage{pdflscape}
+    - \usepackage{tabu}
+    - \usepackage{threeparttable}    
+geometry: margin=2cm
+linestretch: '1.0'
+urlcolor: blue
+link-citations: yes
+linkcolor: blue
+editor_options: 
+  chunk_output_type: console
+---
+
+<!-- # Summary -->
+
+# State of research:
+
+<!-- (highlighting theoretical and empirical debates on your topic and deficits in the literature that your project would address) -->
+
+How individuals perceive the world around them has been a central issue in sociology and social psychology. In this regard, the literature on preference formation suggests that these rely on normative structures such as values, ideological or political conceptions about the world [@smithCulturalValuesModerate2018; @Janmaat2013]. In addition, the theoretical and empirical development in sociological social justice research has focused on the role of situations and societal context over justice evaluations and distributive preferences [@Liebig-Sauer2016]. The literature on redistributive preferences has proposed different mechanisms for explaining the demand for redistribution, such as the self-interest model [@Meltzer1981], risk exposure hypothesis [@rehm09], the prospective upward mobility hypothesis [@Benabou2001], the information approach [@Bartels2008], and value-driven explanations [@Feldman2001; @Kulin2013]. However, this body of literature has paid less attention to the role of perception on the emergence of redistributive preferences, especially how people perceive their standing in the social ladder, conceptualised as subjective social status (SSS) [@slomczynski1987; @Evans2004; @Lundberg2008]. The evidence indicates that individuals' perception of their social standing strongly ties with social comparison as a micro-level phenomenon. Hence, the socioeconomic composition of the reference groups is a crucial feature to comprehend the consequences of comparison [@kim_social_2021]. Thus, individuals first create their subjective image of society, and therefore, they allocate themselves on the social ladder [@Evans2004; @Evans2017]. However, in addition to the micro-level relation described, the role of macro-level factors that could moderate the relation between subjective social status and redistributive preferences is a far less explored part of the presented conceptual dilemma [@Lindemann2014; @Bobzien2019].
+
+The empirical evidence on subjective social status suggests that social comparison is a robust explanatory mechanism for estimating their relative position in society. In this respect, the study of social comparison can be traced back to the @festinger1954theory classic theory, which has had a significant development in Social Psychology and Sociology, which can be summarised in two theoretical traditions. On the one hand, an approach based on the Equity Theory developed by @Adams1965 assumes an exchange situation between individuals of *similar* characteristics, in which the core idea is the proportionality of outcomes concerning inputs. Thus, if the exchange situation results in inequality, it is considered just.
+
+On the other hand, we can mention the theoretical and empirical work of @Merton1968 on the Relative Deprivation Theory (RD) as an alternative approach for studying social comparison. In their view, the role of perception is much more salient in the evaluation process because one of the fundamental assumptions is that individuals can have an *asymmetric* social standing, which affects how individuals evaluate the result of an exchange. Furthermore, an important argument that @Wegener1990 suggests is that judgments about distributional outcomes are linked with previous perceptions of actual distribution. Still, these are relative to the observer's position on the social hierarchy, and their distributional perception can be illusionary and lead to biased judgments [@Wegener1987].
+
+The redistributive preferences literature has not directly considered the influence of how individuals perceive themselves (and others) on the social ladder. Based on the approach proposed by @Wegener1987 regarding the judgments formation process, it could be argued that a less developed aspect in redistributive preferences literature is the role of social comparison as an explanatory mechanism. In this line, I propose that it is necessary to have in consideration a body of literature that comprises the relevance of reference groups on social status perception [@Andersson2018a; @Evans2017] as a critical factor for understanding the role of the perception of economic inequality on the emergence and changes of redistributive preferences [@Smith1981; @Castillo2011; @Schroder2017_soc_jus]. Recent empirical evidence suggests a positive association between perceived salary gaps, perceived structural inequality, and redistributive preferences [@Garcia-Sanchez19; @Bobzien2019; @Fatke2018]. However, these results do not offer concrete evidence about social comparison but a theoretical and analytical argument that links the phenomenon with the perceived economic inequality based on the "reference group and reality blend" (R&R-blend) hypothesis [@Evans1992].
+
+The theoretical development of the R&R-blend approach relies on the empirical effort for explaining the individual perception of structural inequality [@Evans1992; @Evans2017] and subjective social status [@KelleyEvans1995; @Evans2004]. In this respect, there are two core dimensions. On the one hand, objective circumstances are represented by individuals' location on the social hierarchy, characterised by socioeconomic characteristics such as income or wealth, educational level, or occupations. In the words of @KelleyEvans1995, these "material forces" affect the social status perception and class identification [@Jackman1973; @Elbert2018], but they are not the only factors that affect individual perceptions about social standing and economic inequality. On the other hand, this literature suggests that socioeconomic status entails a "social closure" generated by homophily that could lead to higher homogeneity within reference groups in terms of the socioeconomic characteristics of family and friends [@Evans2004]. The ongoing argument is that the similarity within and between reference groups affects how individuals perceive society. These circumstances derive into a phenomenon described as a type of availability heuristic called 'subjective-sampling' through which individuals perceive images of the social structure that are systematically biased due to the homogeneity of their reference groups [@KelleyEvans1995; @Evans2017; @kim_social_2021]. In this regard, @Evans2004 suggests that close network ties are composed of members with similar status characteristics. As a result, individuals tend to perceive themselves in the middle of the social hierarchy [@Lindemann2014; @ChenWilliams2018; @Castillo2013]. In sum, the R&R-blend hypothesis does not suggest that material factors exclusively influence perceptions. Still, the evidence also suggests that these perceptions are strongly affected by the exposure to reference groups, a phenomenon that is deeply rooted in social comparison [@visser_attitudes_2004].
+
+The link between social comparison and redistributive preferences has been little studied. Still, there has been recent evidence suggesting that social comparison influences preferences. However, an essential component is *who* are the individuals or groups under comparison. The argument in this literature posits that *Ego's* perceived social status is generated by social comparison processes, which can be theoretically explained by the mechanism described in the R&R-blend hypothesis. Following this argument, individuals that perceive themselves to be on the lowest (highest) social rungs of social hierarchy experience more (less) relative deprivation [@Smith-eta2020_relative-deprivation].
+
+In comparison to the canonical economic self-interest hypothesis [@Meltzer1981; @Benabou2001], the R&R-blend hypothesis suggests that the relative location of individuals on the income distribution shapes their individual preferences for supporting redistribution. The relevance of studying social comparison as an explanatory mechanism of redistributive preferences relies on focusing on the status characteristics of the closest network. In this respect, the R&R-blend hypothesis assumes that social comparison *always* focuses on individuals with similar features from the nearest network but does not consider the contact with individuals or groups of different status that lead to variations on perceptual outcomes derived from an *asymmetric* social comparison. Thus, recent evidence in social psychology suggests that studying social comparison comprise three aspects that need to be considered: _direction_ (e.g., upward, downward), _target_ (e.g., friend, stranger), and _dimension_ (e.g., status, appearance) [@arigo_methods_2020]
+
+@Condon2020 argues that research on social comparison focuses on distinguishing *absolute* and *relative* status characteristics. As they posit, individuals with lower status feel greater social distance from the wealthy respond with significant concern about inequality and higher support for social spending. As a result, when status differences are more salient, social distance is perceived as inequality. Based on a randomised survey experiment, @Condon2020 manipulated the social status perception using two treatment conditions. First, they presented two different vignettes to the respondents that simulated a situation that leads to upward and downward comparison. In this respect, they took the argument from subjective health literature, based on the negative association of economic inequality with subjective well-being [@Hajdu2014; @Buttrick-etal_2017] and life satisfaction [@CheungLucas2014] to empirically test the effect of social comparison on redistributive preferences.
+
+In this respect, @Jasso1990 suggests that upward comparisons trigger negative judgments about economic distribution and feelings of deprivation that boost negative perceptions about economic inequality, decreasing life satisfaction and subjective well-being [@Olivos-etal2020]. A key empirical finding presented by @Condon2020 is that they initially hypothesised that upward (downward) comparison should derive in more (less) demand for redistribution, understood as the government's responsibility to reduce income differences between the rich and poor. Nevertheless, they found that upward social comparison had a null effect in this 'general' redistributive measure, but an essential positive impact in specific policy issues such as social security, education, food, and unemployment insurance. Another significant result is that they tested the "median-voter" hypothesis, conducting causal heterogeneity analysis to determine if the causal effect had the same size on different income groups. They found that the more significant effect is among the middle-income individuals, especially among the top income individuals, because they tend to compare themselves with the top income percentile.
+
+Considering the theoretical and empirical elements presented above, I would like to contribute to the redistributive preference literature and discuss the role of social comparison as a relevant explanatory mechanism. As a result, my main research question is *What is the role of social comparison on redistributive preferences formation?*. In this respect, the first part of my research is to assess the relevance of subjective social status on redistributive preferences from a comparative perspective, considering that individuals' perception of their position in society can be understood as an outcome that derives from the social comparison that is also affected by a contextual characteristic such as objective income inequality at the country level [@Evans2004; @Lindemann2014; @IturraMellado2019].
+
+The second part of my research is based on data from a five-wave panel survey conducted in Chile by the Centre for Social Conflict and Cohesion Studies (2016-2020). This data will allow understanding the role of subjective social status on redistributive preferences from a longitudinal perspective, focusing on how the changes on perceived economic inequality over time could moderate the impact of social comparison outcomes.
+
+Based on the model proposed by @Condon2020, in the third part of my research, I would like to incorporate elements from the distributive justice literature to provide a complete image of the role of reference groups on social comparison and how these factors are associated with redistributive preferences. As @Jasso1990 suggested, the evaluation process is affected by both observer's and observed characteristics, allowing us to estimate how these factors impact a specific outcome. In this respect, on this stage, I will conduct a factorial survey design in Chile and Germany to assess the interplay of the observer characteristic with a set of different vignette characteristics on status perception and redistributive preferences.
+
+# Objectives, methods and work plan
+
+<!-- (be very specific about the methods used and the stages of the work plan) -->
+
+As described above, the main research question is *What is the role of social comparison and subjective social status on redistributive preferences formation?*. This question derives into three specific research objectives, comprising three empirical studies.
+
+## Objective 1: Compare the relation between subjective social status and redistributive preferences over time in different national contexts with heterogeneous levels of economic inequality.
+
+**Title:** "Economic Inequality, Subjective Social Status and preference for redistribution: A multilevel cross-national study (1999-2019)".
+
+Using data from the Social Inequality module of the International Social Survey Programme for 1999, 2009, and the forthcoming 2019 wave, I will conduct a comparative study to achieve the first objective of my research. Concerning the methodological approach, the work of @Schmidt-Catran2016 offers an alternative to estimate multilevel and longitudinal regression models. This technique allows decomposing the variance into three nesting levels: Country, Country-Year, and individual. In this regard, the hypothesis at the micro-level can be tested, but also estimate the effect of country-level characteristics and their changes over time using three measures, the minimum number of repeated measures to conduct the analysis [@schmidt-catranRandomEffectsMultilevel2016].
+
+## Objective 2: Determine the effect of variations in subjective social status on redistributive preferences in Chile.
+
+**Title:** "Subjective Social Status and the demand for redistribution in a highly unequal context: A longitudinal analysis of the case of Chile (2016-2021)."
+
+The advantage of longitudinal data is that we can evaluate causal relations across time based on repeated measures. In this regard, I propose using a multilevel longitudinal model, which measures are nested within individuals [@hairjr_multilevel_2019] focusing on how the variations of how people allocate themselves on the social structure affect attitudes towards inequality. 
+
+
+## Objective 3: Compare the effect of social comparison on redistributive preferences in Chile and Germany.
+
+**Title**: "I am down here because you are up there: The role of social comparison on redistributive preferences: A comparative factorial survey approach to the case of Chile and Germany"
+
+As @Jasso1990 proposed, a factorial survey methodological approach allows the researcher to understand the role of the observed characteristic from a fictitious subject on the justice evaluation of an external observer. Conceptually, social comparison is understood as the evaluation that an individual does about others, and as a result, they adjust their evaluations concerning these characteristics [@dulmer_factorial_2016]. Therefore, I propose a factorial design to evaluate how the observed features of a set of vignettes influences, in the first place, the subjective social status of the observer. In the second place, following the model proposed by @Condon2020, test how these changes affect the observer's attitudes toward a more general income-inequality redistributive question and over specific welfare topics such health aid, educational support, and social security [@castillo2019; @breznau_economic_2010].
+
+# Bibliography
+
+```{=tex}
+\scriptsize
+\singlespacing
+```
