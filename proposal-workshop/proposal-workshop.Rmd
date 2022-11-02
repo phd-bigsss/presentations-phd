@@ -87,11 +87,13 @@ November 2, Bremen.
 ---
 # Study 1: 
 
-**Title:** "Economic Inequality, Subjective Social Status and preference for redistribution: A multilevel cross-national study (1999-2019)".
+**Title:** "Economic Inequality, Subjective Social Status and preference for redistribution: A multilevel cross-national study (1992*-2019)".
 
 * *Objective:* Compare the relation between subjective social status and redistributive preferences over time in different national contexts with heterogeneous levels of economic inequality.
 
+<br>
 
+.tiny[Note: the 1992 sample is the smallest (19 countries), but still useful.]
 ---
 class: middle center
 background-image: url("images/study1.PNG")
@@ -99,10 +101,13 @@ background-size: contain
 ---
 # Study 2
 
-**Title:** "Subjective Social Status and the demand for redistribution in a highly unequal context: A longitudinal analysis of the case of Chile (2016-2021)."
+**Title:** "Subjective Social Status and the demand for redistribution in a highly unequal context: A longitudinal analysis of the case of Chile (2016-2022*)."
 
 * *Objective:* Determine the effect of variations in subjective social status on redistributive preferences in Chile.
 
+<br><br>
+
+.tiny[Note: the 2022 sample was recently released]
 ---
 class: middle center
 background-image: url("images/study2.PNG")
