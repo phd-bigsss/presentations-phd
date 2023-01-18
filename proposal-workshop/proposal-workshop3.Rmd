@@ -1,0 +1,181 @@
+---
+title: "Social comparison and preferences for redistribution"
+author: ".small[Julio Iturra]"
+date: "January 2023"
+output:
+  xaringan::moon_reader:
+    includes:
+      after_body: insert-logo.html
+    lib_dir: libs
+    css: ["custom_2020.css"]
+    seal: false # esto omite title slide automática
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+      beforeInit: "xaringan_custom/macros.js"
+      slideNumberFormat: "%current%/%total%"
+---
+class: middle hide-logo title
+
+```{r xaringanExtra, echo = FALSE}
+  xaringanExtra::use_progress_bar(color = "red", location = c("top"))
+```
+
+.pull-left-narrow[
+.espaciosimple[
+.tiny[]
+]
+
+![:scale 90%](images/bigsss-logo.jpeg)
+<br><br><br><br><br><br><br><br>
+]
+
+.pull-right-wide[
+.right[
+
+.content-box-gray[
+# 
+## Social comparison and preferences for redistribution
+]
+
+----
+.espaciosimplelineas[
+.medium[
+Julio Iturra - BIGSSS
+] 
+]
+
+.small[
+November 30, Bremen.
+
+[github.com/phd-bigsss](https://github.com/phd-bigsss)
+  ]
+
+]
+]
+---
+# Main question
+
+<br>
+<br>
+.center[
+.large[*What is the role of social comparison on redistributive preferences?*
+]
+]
+---
+
+class: middle center
+background-image: url("images/toc2.PNG")
+background-size: contain
+
+---
+# Paper 1
+
+.medium[
+- social comparison: focus on .bold[income distance] (own income vs perceived income) from high and low-status groups 
+  
+  - to what extent does distance influence subjective status? (study 1) 
+  
+  - does subjective social status influence preference for redistribution? (study 2)
+  - does country-level income inequality mitigate the link between SSS and redistributive preferences?
+]
+---
+background-image: url("images/indirect-comp.PNG")
+background-size: contain
+
+---
+background-image: url("images/worker-ceo.PNG")
+background-size: contain
+
+---
+background-image: url("images/paper1.PNG")
+background-size: contain
+
+---
+# Paper 2
+
+.medium[
+- social comparison: focus on routinary contact with high and low-status groups as upward-downward experiences of comparison
+
+  - do experiences of social comparison influence policy preferences?
+  
+  - does economic segregation mitigate the association of comparison and policy preferences?
+
+- possible to replicate with cross-country data (study 1) and longitudinal data (study 2). 
+
+- .bold[idea:] estimate the causal effect of contact (e.g. matching)]
+
+---
+background-image: url("images/paper2.PNG")
+background-size: contain
+---
+# Paper 3
+
+.small[- focus on experimentally manipulating comparison through vignettes
+- vignettes are hypothetical subjects that are randomly assigned to a respondent to test how the attributes (stimuli) of the vignette can affect responses
+
+- ideas of outcomes measures:
+	- policy benefit 
+	- increase taxes
+
+
+- H1: egalitarian or self-interest (high income: high taxes, less benefit)
+
+- H2: humanitarian motivation (based on need criteria)
+
+- H3: parochial altruism ("for those who are in need, but similar to me")
+]
+ 
+---
+background-image: url("images/paper3.PNG")
+background-size: contain
+
+---
+# In progress
+
+- the role of social network composition as a source of social comparison (inferential space hypothesis)
+
+- better argument for local income inequality and segregation (contact hypothesis)
+
+---
+.pull-left-narrow[
+.espaciosimple[
+.tiny[]
+]
+<br><br><br><br><br><br><br><br>
+
+![:scale %](images/bigsss-logo.jpeg)
+
+<!-- ![:scale 50%](images/bigsss-logo.jpeg) -->
+<!-- <br> -->
+
+]
+
+.pull-right-wide[
+.right[
+
+.content-box-gray[
+# 
+## Social comparison and preferences for redistribution
+]
+
+----
+
+.espaciosimplelineas[
+.medium[
+Julio Iturra - BIGSSS
+] 
+]
+
+.small[
+November 30, Bremen.
+
+[github.com/phd-bigsss](https://github.com/phd-bigsss)
+  
+  ]
+
+]
+]
+
