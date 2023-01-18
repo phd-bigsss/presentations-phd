@@ -48,7 +48,7 @@ Julio Iturra - BIGSSS
 ]
 
 .small[
-November 30, Bremen.
+January 18 , Bremen.
 
 [github.com/phd-bigsss](https://github.com/phd-bigsss)
   ]
