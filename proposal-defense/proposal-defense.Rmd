@@ -51,6 +51,7 @@ bib <- ReadBib("P:/library-full.bib" )
 ]
 
 ----
+Global Inequality, the Middle Classes and the Welfare State (GloWel)
 .espaciosimplelineas[
 .medium[
 Julio Iturra Sanhueza
@@ -94,12 +95,12 @@ May 23, Bremen.
 ---
 ## Introduction (...)
 
-.medium[- Redistributive preferences: 
-> "as the views about what should be the government's role in taking redistributive measures for providing welfare to their citizens"
+.medium[- .bold[Redistributive preferences]: 
+> Different opinions exist regarding the government's responsibility in implementing redistributive measures to ensure the welfare of its citizens.
 
-- *Previously*: Economic .bold[self-interest] and .bold[value-driven] motivations as an explanatory mechanism for preference formation.
+- *Foundations*: Economic .bold[self-interest] and .bold[value-driven] motivations as an explanatory mechanism for preference formation.
 
-- *Recently*: attention to **psychosocial** processes involved in **perceptions** of economic inequality:
+- *Ongoing*: attention to **psychosocial** processes involved in **perceptions** of economic inequality:
   - .bold[(i) structural positions] and;
   - .bold[(ii) the role of reference groups in social networks.]
 ]
@@ -145,7 +146,7 @@ May 23, Bremen.
 
 - Social networks and resources:
   -  Personal and .bold[social resources] .small[`r Citep(bib, c("lin_access_1986"))`] 
-   -  .bold[Access] $\rightarrow $structural positions: information/support .small[`r Citep(bib, c("lin_building_2001"))`] 
+   -  .bold[Access] $\rightarrow$ structural positions: information/support .small[`r Citep(bib, c("lin_building_2001"))`] 
   
 - Class inequality in social networks:  
   - social closure, interests, and distinctive practices  .small[`r Citep(bib, c("wright_relative_1992a","otero_open_2021"))`]
@@ -211,7 +212,7 @@ background-size: contain
 ---
 ## Open, transparent & reproducible  
 
-* Github repository : https://github.com/orgs/phd-bigsss/repositories
+* Github repository: https://github.com/orgs/phd-bigsss/repositories
 * Open Science Framework: https://osf.io/v9rk7/ 
 
 .center[![:scale 50%](images/repos.PNG)]
